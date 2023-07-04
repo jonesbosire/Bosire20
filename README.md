@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Bosire20
-- 👀 I’m interested in learning software development and system administaration.
-- 🌱 I’m currently learning python and php
-- 💞️ I’m looking to collaborate on any projects that i can contribute to and also get some help from you.
+- 👋 Hi, I’m @OtukeBosire
+- 👀 I’m learning Web development and will be a Software Engineer at some point.
+- 🌱 I’m currently learning HTML,CSS, Javascript, REACTJS and PHP
+- 💞️ I’m looking to collaborate on any projects that I can contribute to and also get some help from you.
 - 📫 How to reach me ..email; bosirejones19@gmail.com, WhatsApp +254748835690.
 - 
 
